@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBot", "PluginBot\PluginBot.csproj", "{31E2215C-06E1-4A6C-AC3B-420A36D05322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E2215C-06E1-4A6C-AC3B-420A36D05322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E2215C-06E1-4A6C-AC3B-420A36D05322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E2215C-06E1-4A6C-AC3B-420A36D05322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E2215C-06E1-4A6C-AC3B-420A36D05322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1636F292-0AB9-469B-AB5F-79B38AB2C3AF}
+	EndGlobalSection
+EndGlobal
